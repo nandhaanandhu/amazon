@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="2" time="0">
+    <testcase classname="search of product in amazon" name="Launch the amazon application in web" time="0">
+        <system-out><![CDATA[Given enter the url.........................................................skipped
+When user select the product from the category..............................skipped
+And user should enter the product name in the search box....................skipped
+Then user should compare with the suggestion and Click the product name.....skipped
+]]></system-out>
+    </testcase>
+    <testcase classname="search of product in amazon" name="Product page" time="0">
+        <system-out><![CDATA[When user search the result page and enter the total number of product......skipped
+Then user search the more result page and enter the total number of product.skipped
+]]></system-out>
+    </testcase>
+</testsuite>
